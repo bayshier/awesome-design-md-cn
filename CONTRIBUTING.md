@@ -1,25 +1,25 @@
-# Contributing to Awesome Design MD
+# 参与贡献 Awesome Design MD（中文版）
 
-Thanks for contributing.
+感谢参与贡献。
 
-This repository is a curated collection of DESIGN.md files extracted from popular websites. Each file captures a site's complete visual language in a format any AI agent can read.
+本仓库是从知名网站提取的 DESIGN.md 文件精选集。每个文件以任何 AI 代理都能读懂的格式，完整记录一个站点的视觉语言。
 
-## How to Contribute
+## 如何贡献
 
-### Improve an Existing DESIGN.md
+### 改进现有 DESIGN.md
 
-If you notice issues with an existing file:
+如果发现现有文件有问题：
 
-1. **Open an issue first** to describe what you'd like to change and get feedback from maintainers
-2. Open the site's `DESIGN.md`
-3. Compare against the live site
-4. Fix incorrect hex values, missing tokens, or weak descriptions
-5. Update the `preview.html` and `preview-dark.html` if your changes affect displayed tokens
-6. Open a PR with before/after rationale
+1. **先开一个 issue**，描述你想改什么，听取维护者的反馈
+2. 打开对应站点的 `DESIGN.md`
+3. 与线上真实站点对照
+4. 修正错误的色值、缺失的 token 或不准确的描述
+5. 如果改动影响了展示的 token，同步更新 `preview.html` 和 `preview-dark.html`
+6. 提交 PR 并附上修改前后的说明
 
 
-We cannot accept DESIGN.md pull requests to maintain the quality of the existing collection.
+为保证现有集合的质量，我们无法接受新增 DESIGN.md 的 pull request。
 
-## License
+## 许可证
 
-By contributing, you agree your contributions are provided under the repository license terms.
+提交贡献即表示你同意按照仓库许可条款提供你的贡献。

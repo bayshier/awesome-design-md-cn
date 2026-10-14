@@ -1,5 +1,5 @@
-# Airbnb Inspired Design System Analysis
+# Airbnb 设计系统分析
 
-Design system details have been moved to: https://getdesign.md/airbnb/design-md
+设计系统详情已迁移至：https://getdesign.md/airbnb/design-md
 
-You can also view previews, dark mode examples, and download options on getdesign.md.
+你也可以在 getdesign.md 查看预览、暗色模式示例与下载选项。
